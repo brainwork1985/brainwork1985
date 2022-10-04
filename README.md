@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brainwork1985
-- 👀 I’m interested in ...Recruitment
+- 👀 I’m interested in ...UX UI / Gaming / PM / Recruitment
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...help people 
 - 📫 How to reach me ...https://www.linkedin.com/in/juliamartinez/
