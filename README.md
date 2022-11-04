@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...help people 
 - 📫 How to reach me ...https://www.linkedin.com/in/juliamartinez/
+- shulzmarti@gmail.com
 
 <!---
 brainwork1985/brainwork1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
